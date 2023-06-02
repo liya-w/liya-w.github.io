@@ -1,0 +1,33 @@
+
+
+.articles-introduction {
+  margin-bottom: 30px;
+  text-align: justify;
+
+}
+
+.articles-list {
+  list-style-type: none;
+
+}
+
+
+.articles-list li {
+
+  font-family: arial;
+  font-weight: lighter;
+  text-decoration: underline; 
+  color: black;
+ 
+  margin-bottom: 6px;
+
+}
+
+.articles-list li a:hover {
+  color: #828282;
+
+}
+
+
+
+

@@ -1,0 +1,23 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+    
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial;
+
+}
+    

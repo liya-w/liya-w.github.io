@@ -1,0 +1,50 @@
+
+
+.blogs-container {
+  
+  margin-bottom: 30px;
+  border-bottom: 1px solid #CCCCCC;
+
+  padding-bottom: 10px;
+  
+}
+
+.blogs-date {
+  
+  font-size: 13px;
+  margin-bottom: 5px;
+  font-style: italic;
+
+}
+
+
+
+.blogs-text {
+  font-size: 15px;
+
+}
+
+
+
+
+.articles-list li {
+
+  padding: 0;
+
+
+}
+
+
+.articles-list li a {
+  font-family: arial;
+  font-weight: lighter;
+  text-decoration: underline; 
+  color: black;
+  font-size: 15px;
+
+}
+
+.articles-list li a:hover {
+  color: #828282;
+
+}
