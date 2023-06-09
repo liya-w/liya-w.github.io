@@ -1,9 +1,12 @@
 
 .articles-page {
   margin: 50px 50px;
-  max-width: 60%;
+  max-width: 62%;
   text-align: justify;
   font-size: 15px;
+
+  background-color: rgb(255, 255, 255);
+  padding: 30px;
 
 }
 
@@ -17,6 +20,9 @@
 .articles-page h3 {
   margin-bottom: 10px;
 }
+
+
+
 
 
 .back-button {

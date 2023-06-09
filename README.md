@@ -1,3 +1,2 @@
-Hallo, this is liya
-
-: )
+Hi, this is liya.
+She is travelling in the world.

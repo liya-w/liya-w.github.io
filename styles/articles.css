@@ -3,6 +3,7 @@
 .articles-introduction {
   margin-bottom: 30px;
   text-align: justify;
+  font-size: 14px;
 
 }
 
@@ -15,7 +16,7 @@
 .articles-list li {
 
   font-family: arial;
-  font-weight: lighter;
+  
   text-decoration: underline; 
   color: black;
  
